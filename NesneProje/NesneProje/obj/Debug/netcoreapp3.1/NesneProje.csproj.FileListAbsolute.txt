@@ -1,0 +1,14 @@
+C:\Users\savsa\source\repos\NesneProje\NesneProje\bin\Debug\netcoreapp3.1\NesneProje.exe
+C:\Users\savsa\source\repos\NesneProje\NesneProje\bin\Debug\netcoreapp3.1\NesneProje.deps.json
+C:\Users\savsa\source\repos\NesneProje\NesneProje\bin\Debug\netcoreapp3.1\NesneProje.runtimeconfig.json
+C:\Users\savsa\source\repos\NesneProje\NesneProje\bin\Debug\netcoreapp3.1\NesneProje.runtimeconfig.dev.json
+C:\Users\savsa\source\repos\NesneProje\NesneProje\bin\Debug\netcoreapp3.1\NesneProje.dll
+C:\Users\savsa\source\repos\NesneProje\NesneProje\bin\Debug\netcoreapp3.1\NesneProje.pdb
+C:\Users\savsa\source\repos\NesneProje\NesneProje\obj\Debug\netcoreapp3.1\NesneProje.csproj.AssemblyReference.cache
+C:\Users\savsa\source\repos\NesneProje\NesneProje\obj\Debug\netcoreapp3.1\NesneProje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savsa\source\repos\NesneProje\NesneProje\obj\Debug\netcoreapp3.1\NesneProje.AssemblyInfoInputs.cache
+C:\Users\savsa\source\repos\NesneProje\NesneProje\obj\Debug\netcoreapp3.1\NesneProje.AssemblyInfo.cs
+C:\Users\savsa\source\repos\NesneProje\NesneProje\obj\Debug\netcoreapp3.1\NesneProje.csproj.CoreCompileInputs.cache
+C:\Users\savsa\source\repos\NesneProje\NesneProje\obj\Debug\netcoreapp3.1\NesneProje.dll
+C:\Users\savsa\source\repos\NesneProje\NesneProje\obj\Debug\netcoreapp3.1\NesneProje.pdb
+C:\Users\savsa\source\repos\NesneProje\NesneProje\obj\Debug\netcoreapp3.1\NesneProje.genruntimeconfig.cache
